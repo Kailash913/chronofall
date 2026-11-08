@@ -1,0 +1,51 @@
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+[   0% ] first_scan_filesystem | Started Project initialization (5 steps)
+[   0% ] first_scan_filesystem | Scanning file structure...
+[  16% ] first_scan_filesystem | Loading global class names...
+[  33% ] first_scan_filesystem | Verifying GDExtensions...
+[  50% ] first_scan_filesystem | Creating autoload scripts...
+[  66% ] first_scan_filesystem | Initializing plugins...
+[  83% ] first_scan_filesystem | Starting file scan...
+[ DONE ] first_scan_filesystem
+
+[   0% ] savepack | Started Packing (102 steps)
+[   1% ] savepack | Storing File: res://.godot/imported/ambient.wav-4da868391f8baff6168923c55226c2d6.sample
+[   1% ] savepack | Storing File: res://assets/audio/ambient.wav.import
+[   6% ] savepack | Storing File: res://.godot/imported/bubble.wav-aead74147a40ed3f75a26793368470eb.sample
+[   6% ] savepack | Storing File: res://assets/audio/bubble.wav.import
+[  12% ] savepack | Storing File: res://.godot/imported/forward.wav-a20769f6576bbc12142c64f6b0d92338.sample
+[  12% ] savepack | Storing File: res://assets/audio/forward.wav.import
+[  18% ] savepack | Storing File: res://.godot/imported/impact.wav-69c408f3f3e73daf7c3030beaa0507af.sample
+[  18% ] savepack | Storing File: res://assets/audio/impact.wav.import
+[  24% ] savepack | Storing File: res://.godot/imported/reverse.wav-c23ba39d657ddc9145e8129e18c4850f.sample
+[  24% ] savepack | Storing File: res://assets/audio/reverse.wav.import
+[  30% ] savepack | Storing File: res://.godot/imported/shot.wav-ac6ed86fa6b7982e876275e953a6b851.sample
+[  30% ] savepack | Storing File: res://assets/audio/shot.wav.import
+[  35% ] savepack | Storing File: res://.godot/imported/step.wav-7c1afa4d3561f9fd67ecf320728c68cf.sample
+[  35% ] savepack | Storing File: res://assets/audio/step.wav.import
+[  41% ] savepack | Storing File: res://.godot/imported/switch.wav-07ea2fe3a03d6c5abe64ad25d70092f8.sample
+[  41% ] savepack | Storing File: res://assets/audio/switch.wav.import
+[  47% ] savepack | Storing File: res://.godot/imported/beveled_pillar.obj-24c1e316c7c4018993104c2ffd8165c4.mesh
+[  47% ] savepack | Storing File: res://assets/meshes/beveled_pillar.obj.import
+[  52% ] savepack | Storing File: res://assets/ASSET_MANIFEST.json
+[  58% ] savepack | Storing File: res://.godot/imported/icon.svg-56083ea2a1f1a4f1e49773bdc6d7826c.ctex
+[  58% ] savepack | Storing File: res://assets/icon.svg.import
+[  64% ] savepack | Storing File: res://scripts/History.gdc
+[  69% ] savepack | Storing File: res://scripts/Game.gdc
+[  75% ] savepack | Storing File: res://scripts/toon.gdshader
+[  81% ] savepack | Storing File: res://scripts/Hud.gdc
+[  87% ] savepack | Storing File: res://.godot/exported/133200997/export-bcb0d2eb5949c52b6a65bfe9de3e985b-Main.scn
+[  93% ] savepack | Storing File: res://scripts/World.gdc
+[  93% ] savepack | Storing File: res://scripts/History.gd.remap
+[  93% ] savepack | Storing File: res://scripts/Game.gd.remap
+[  93% ] savepack | Storing File: res://scripts/Hud.gd.remap
+[  93% ] savepack | Storing File: res://Main.tscn.remap
+[  93% ] savepack | Storing File: res://scripts/World.gd.remap
+[  93% ] savepack | Storing File: res://.godot/global_script_class_cache.cfg
+[  93% ] savepack | Storing File: res://assets/icon.svg
+[  93% ] savepack | Storing File: res://.godot/uid_cache.bin
+[  93% ] savepack | Storing File: res://project.binary
+[ DONE ] savepack
+
+cannot connect to daemon at tcp:5037: Connection refused

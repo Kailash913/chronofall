@@ -1,0 +1,27 @@
+config_version=5
+[application]
+config/name="Chrono-Spire"
+run/main_scene="res://Main.tscn"
+config/features=PackedStringArray("4.6", "GL Compatibility")
+config/icon="res://assets/icon.svg"
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/handheld/orientation=0
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="mobile"
+renderer/rendering_method.windows="mobile"
+rendering_device/driver.android="vulkan"
+rendering_device/driver.windows="d3d12"
+rendering_device/fallback_to_vulkan=true
+rendering_device/fallback_to_opengl3=true
+textures/vram_compression/import_etc2_astc=true
+textures/default_filters/use_nearest_mipmap_filter=false
+anti_aliasing/quality/msaa_3d=0
+[physics]
+common/physics_ticks_per_second=60
+[input_devices]
+pointing/emulate_touch_from_mouse=false
+pointing/emulate_mouse_from_touch=false

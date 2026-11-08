@@ -1,0 +1,29 @@
+{
+  "license": "CC0-1.0",
+  "author": "Procedurally generated for Chrono-Spire",
+  "remote_attempt": {
+    "url": "https://github.com/KenneyNL/Starter-Kits/raw/master/3D/Space%20Kit/",
+    "status": 404,
+    "used": false
+  },
+  "audio": [
+    "assets/audio/ambient.wav",
+    "assets/audio/reverse.wav",
+    "assets/audio/switch.wav",
+    "assets/audio/step.wav",
+    "assets/audio/shot.wav",
+    "assets/audio/forward.wav",
+    "assets/audio/bubble.wav",
+    "assets/audio/impact.wav"
+  ],
+  "meshes": [
+    "assets/meshes/beveled_pillar.obj"
+  ],
+  "runtime_geometry": [
+    "instanced modular walls and floors",
+    "fractured catwalk slabs",
+    "capsule character and weapon sockets",
+    "segmented enemy armor",
+    "roots and door hinges"
+  ]
+}

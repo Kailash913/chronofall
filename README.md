@@ -1,3 +1,17 @@
+# Latest game: Chrono-Spire
+
+Agent Vance's three-sector 3D time-manipulation mission: restore the catwalk, corrode the vault, reflect kinetic bolts, defeat temporal enemies, and seal the Singularity Core.
+
+- [Download Android release APK](https://raw.githubusercontent.com/Kailash913/chronofall/main/downloads/ChronoSpire.apk)
+- [Download Windows x86_64 ZIP](https://raw.githubusercontent.com/Kailash913/chronofall/main/downloads/ChronoSpire-Windows.zip)
+- [Download source, logs and screenshots](https://raw.githubusercontent.com/Kailash913/chronofall/main/downloads/ChronoSpire-source.zip)
+- [Build report and checksums](chrono-spire/BUILD_REPORT.md)
+- [Controls and build instructions](chrono-spire/README.md)
+
+![Chrono-Spire menu](chrono-spire/screenshots/menu.png)
+
+---
+
 # Chronofall
 
 ## Download the game

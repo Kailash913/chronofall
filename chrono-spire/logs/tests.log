@@ -1,0 +1,23 @@
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+PASS: 20 mechanics assertions
+  History is bounded to eight seconds / 480 samples
+  Ring wraps without losing chronological order
+  Rewind pops newest state
+  Full velocity state retained
+  Mission starts at interactive induction
+  Movement tutorial advances
+  Selective rewind reconstructs solid bridge
+  Crossing rebuilt bridge advances tutorial
+  Fast-forward corrodes door and removes collision
+  Turret encounter begins after door
+  Bubble slows incoming projectile by 90 percent
+  Rewind reverses a locked kinetic projectile
+  Returned bolt destroys shielded tutorial turret
+  Foundry checkpoint spawns Stalkers and Remnant
+  Stalker ambushes recorded rewind destination
+  Boss checkpoint progression
+  Rewinding armor opens five-second vulnerability
+  Golem shield returns when cooling window ends
+  Core objective appears after enemy defeat
+  Core interaction completes narrative

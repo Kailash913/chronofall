@@ -1,0 +1,14 @@
+{
+  "builds/android/ChronoSpire.apk": {
+    "bytes": 26077896,
+    "sha256": "de25c2db05f19d468458b3fed62734469e31b5e1f091568eb7415daa0a83c7ef"
+  },
+  "builds/windows/ChronoSpire.exe": {
+    "bytes": 104802728,
+    "sha256": "cdf43dea30a3fa14561911588d0176137e96be946bf3a8f8e4bfc35ab3691e08"
+  },
+  "builds/windows/ChronoSpire-Windows.zip": {
+    "bytes": 36232807,
+    "sha256": "f0bad3225ba0d8eb41ebb0c24023da439958e5d28be2f65311dd858c2c0b02d0"
+  }
+}
