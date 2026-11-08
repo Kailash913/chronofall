@@ -1,4 +1,12 @@
 # Chronofall
+
+## Download the game
+
+- [Download Android APK](https://raw.githubusercontent.com/Kailash913/chronofall/main/downloads/Chronofall.apk)
+- [Download Windows EXE](https://raw.githubusercontent.com/Kailash913/chronofall/main/downloads/Chronofall.exe)
+
+Android: download the APK, open it, and allow installation from your browser if prompted.
+
 A complete small three-room 2D puzzle platformer built in Godot 4.6.3.
 
 ## Play
